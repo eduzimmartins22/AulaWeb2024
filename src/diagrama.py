@@ -18,3 +18,5 @@ from diagrams.aws.management  import Cloudwatch
     lambda_group >> memcached
     lambda_group >> logs
     api_gateway >> logs
+
+print("Mastigadores");
